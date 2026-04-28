@@ -1,0 +1,13 @@
+{
+  "name": "Fox AI",
+  "description": "An intelligent, slightly sarcastic, and dutiful AI companion focused on fast responses, image generation, and unsupervised image clustering. Supports voice and text interactions with a highly customizable personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Text Generation",
+    "Voice Input & Output",
+    "Image Generation",
+    "Image Categorization & Clustering"
+  ]
+}
